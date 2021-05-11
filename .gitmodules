@@ -1,0 +1,24 @@
+[submodule "4thTermProjects"]
+	path = 4thTermProjects
+	url = https://github.com/JLew15/4thTermProjects
+[submodule "CPPLearning"]
+	path = CPPLearning
+	url = https://github.com/JLew15/CPPLearning
+[submodule "FORTRANLearning"]
+	path = FORTRANLearning
+	url = https://github.com/JLew15/FORTRANLearning
+[submodule "Java"]
+	path = Java
+	url = https://github.com/JLew15/Java
+[submodule "MobileAppFund"]
+	path = MobileAppFund
+	url = https://github.com/JLew15/MobileAppFund
+[submodule "MobileAppsJava"]
+	path = MobileAppsJava
+	url = https://github.com/JLew15/MobileAppsJava
+[submodule "projects"]
+	path = projects
+	url = https://github.com/JLew15/projects
+[submodule "Python"]
+	path = Python
+	url = https://github.com/JLew15/Python
